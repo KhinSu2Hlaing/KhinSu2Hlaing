@@ -1,7 +1,7 @@
 # Khin Su Su Hlaing
 
 ## About Me
-Hello! My name is Khin Su Su Hlaing. I am passionate about learning new things and am currently focused on mastering Linux.
+Hello!! My name is Khin Su Su Hlaing. I am passionate about learning new things and am currently focused on mastering Linux.
 
 ## Current Learning
 - **Linux:** Exploring various aspects of Linux to enhance my skills and knowledge in system administration and development.
