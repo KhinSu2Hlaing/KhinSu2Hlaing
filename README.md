@@ -9,7 +9,7 @@ Hello!! My name is Khin Su Su Hlaing. I am passionate about learning new things 
 ## Contact
 Feel free to reach out to me if you have any questions or if you'd like to connect!
 
-- **Email:** [ksshmdy050@gmail.com]
+- **Email:** [kssh0852@gmail.com]
 
 
 
